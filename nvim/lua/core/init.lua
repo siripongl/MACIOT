@@ -10,7 +10,8 @@ require("core.options")
 require("core.keymaps")
 
 --NOTE: 2026-9-15
--- ติดตั้ง brew install tree-sitter-cl
+-- ติดตั้ง brew install tree-sitter-cli
+-- ติดตั้ง brew install npm
 --
 -- :Telescope lsp_definitions กระโดดไปยังไฟล์ที่เลือก
 -- กดย้อนกลับด้วยการกด Conrol+o
